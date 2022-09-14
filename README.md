@@ -22,3 +22,4 @@ Final governance model will be determined based on the engagements.
 ## References
 
 - Channels: `#wg-app-lifecycle` on Keptn Slack
+- [Interested Parties](./interested-parties.md)
