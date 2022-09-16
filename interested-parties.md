@@ -1,17 +1,15 @@
 # Interested Parties
 
 This page lists individual and organization stakeholders who declared their interest in the project.
-Being an _Interested Party_ does **NOT** imply any commitment to dedicate time to the project or to adopt OpenFeature.
+Being an _Interested Party_ does **NOT** imply any commitment to dedicate time to the working group and projects under its umbrella.
 
 ## Participating
 
-To declare your interest in OpenFeature, just add your name and/or organization
+To declare your interest in the working group, just add your name and/or organization
 in a pull request. For individuals referencing the organization and other
 affiliations is optional. Organizations must specify a contact email and ensure
 it is kept up to date.
-
-We invite interested parties to sign-up for news and to share expectations using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfRG8Ldun3HmcUsZCFMMORKyafjEUUKDYz5X-Zv8ZFCgbwlXA/viewform).
-Everyone is also welcome to [participate and contribute](https://openfeature.dev/home/participate/) to the project.
+An join our Slack channel!
 
 ## Interested individuals
 
