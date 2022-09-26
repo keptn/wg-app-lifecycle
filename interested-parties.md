@@ -19,6 +19,7 @@ An join our Slack channel!
 | Oleg Nenashev       | Dynatrace       | CDF, Jenkins, Keptn, FOSSi, API Neuchatel                               | [oleg-nenashev](https://github.com/oleg-nenashev)             | [oleg-nenashev](https://gitlab.com/oleg-nenashev) |
 | Suraj Banakar       | Keptn       | N/A                               | [vadasambar](https://github.com/vadasambar)             | [vadasambar](https://gitlab.com/vadasambar) |
 | Thomas Schuetz      | Dynatrace       | CNCF TAG AppDelivery, CDF, Keptn                                        | [thschue](https://github.com/thschue)                         | N/A                                               |
+| Diego Braga         | Krateo PlatformOps       | N/A                                       | [braghettos](https://github.com/braghettos)                         | [diegobraga](https://gitlab.com/diegobraga)                                            |
 
 _Sorted alphabetically by first name_
 
