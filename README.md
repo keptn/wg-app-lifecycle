@@ -21,6 +21,6 @@ Final governance model will be determined based on the engagements.
 
 ## References
 
-- Channels: `#wg-app-lifecycle` on Keptn Slack
+- Channels: `#keptn-app-lifecycle-wg` on CNCF Slack (https://cloud-native.slack.com)
 - [Keptn Lifecycle Controller discussions](https://github.com/keptn-sandbox/lifecycle-controller/discussions)
 - [Interested Parties](./interested-parties.md)
